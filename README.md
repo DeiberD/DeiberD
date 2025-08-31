@@ -5,7 +5,7 @@
 I am a systems engineering student, and I am currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, while trying to get started in the world of competitive programming.
 
 
-- 📫 Reach out to me at: <a href="dagongora22@gmail.com">valenwerlecontacto@gmail.com</a>
+- 📫 Reach out to me at: <a href="dagongora22@gmail.com">dagongora22@gmail.com</a>
 
 ## My Skills Include
 
